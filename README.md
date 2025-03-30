@@ -4,21 +4,8 @@
 
 
 
-<br>
+-I am a Full Stack Web Developer
 
-
-
-
-
-<picture> <img align="right" src="https://github.com/jmontanari777/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Front-end developer
-- Playing CTF's at spare time
--  
--  
-- I’m  
 
 <br><br>
 
