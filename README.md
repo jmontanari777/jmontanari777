@@ -1,10 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Javier Montanari</b></h1>
 
+Hi, I'm Javier – a Full Stack Web Developer with a background in biomedical engineering, focused on building clean, user-friendly web applications with React. I'm currently expanding into full stack development, connecting intuitive front-end interfaces with practical back-end solutions using Node.js, Express, and PostgreSQL.
 
-
-
--I am a Full Stack Web Developer
+I work with modern tools like React, Vite, TypeScript, and REST APIs, and I deploy real projects using platforms like Railway and Vercel. I enjoy turning ideas into fully functional applications – from concept to production, whether it's a financial tracking tool like Stockfolio or a healthcare-focused system like SIGEM.
 
 
 <br><br>
